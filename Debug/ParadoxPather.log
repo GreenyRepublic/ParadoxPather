@@ -1,0 +1,9 @@
+﻿  ParadoxPather.cpp
+s:\benfclark\documents\github\paradoxpather\paradoxpather.cpp(27): warning C4018: '>=': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\queue(244): error C2338: container adaptors require consistent types
+  s:\benfclark\documents\github\paradoxpather\paradoxpather.cpp(55): note: see reference to class template instantiation 'std::priority_queue<std::pair<int,int>,std::vector<int,std::allocator<_Ty>>,gridCompare>' being compiled
+          with
+          [
+              _Ty=int
+          ]
+s:\benfclark\documents\github\paradoxpather\paradoxpather.cpp(88): warning C4018: '>': signed/unsigned mismatch
